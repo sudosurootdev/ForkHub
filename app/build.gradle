@@ -7,8 +7,8 @@ android {
         applicationId 'jp.forkhub'
         minSdkVersion 8
         targetSdkVersion 21
-        versionCode 1933
-        versionName '1.9.33'
+        versionCode 1934
+        versionName '1.9.34'
     }
 
     packagingOptions {
