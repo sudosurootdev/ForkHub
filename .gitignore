@@ -2,6 +2,7 @@
 target
 tmp
 *~
+*.apk
 bin
 */test-output
 temp-testng-customsuite.xml
@@ -19,4 +20,4 @@ gen-external-apklibs
 out
 .gradle
 /local.properties
-/build
+build/
